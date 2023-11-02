@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.todo-items ul {
+  list-style: none;
+}
+.btn {
+  margin-left: 10px;
+}
+.divStyle {
+  margin: '40px'
+};
